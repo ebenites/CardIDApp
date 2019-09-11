@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         try {
 
-            String dni = "76523451";
+            String dni = "48545685";
 
             BarcodeEncoder barcodeEncoder = new BarcodeEncoder();
             Bitmap bitmap = barcodeEncoder.encodeBitmap(dni,

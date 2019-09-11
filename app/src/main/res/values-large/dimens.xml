@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_photo_height">500dp</dimen>
+    <dimen name="main_company_name_size">64sp</dimen>
+    <dimen name="main_fullname_size">48sp</dimen>
+    <dimen name="main_role_name_size">36sp</dimen>
+    <dimen name="main_codebar_height">160dp</dimen>
+</resources>
